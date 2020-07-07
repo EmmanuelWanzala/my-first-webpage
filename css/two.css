@@ -1,0 +1,13 @@
+h2 {
+    color: royalblue;
+    font-style: italic;
+    text-align: center;
+  }
+  p {
+    font-family: monospace;
+    color:rgb(43, 70, 226);
+    background-color: rgb(255, 0, 221);
+    font-size: x-small;
+    line-height: normal;
+    font-style: normal;
+  }
